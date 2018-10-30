@@ -1,5 +1,13 @@
 # 42_libft-asm
 
+## Setup
+
+### Mac OS X
+
+```
+brew install nasm
+```
+
 ## Sauce
 
 - [x86 Assembly Guide](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
